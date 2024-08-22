@@ -5,15 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b0eca1-72bd-40ef-bdf2-cf88df06e93d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/HeaderPages/AboutRules.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HeaderPages/AboutUs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AboutUs.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AboutUs.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AboutUs.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeaderPages/AboutUs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeaderPages/AboutUs.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/additionally/1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/additionally/2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/additionally/3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/additionally/4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/additionally/Intro.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +43,11 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ALMAZ\Desktop\Dopen\AbdP" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
