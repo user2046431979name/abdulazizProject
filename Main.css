@@ -25,12 +25,17 @@ nav {
     align-items: center; 
     justify-content: space-between; 
 } 
- 
+
+a{
+    text-decoration: none;
+}
+
 .nav-elements .title-el-port { 
     padding-left: 20px;
     font-size: 20px;
     color: white;
     cursor: pointer;
+    text-decoration: none;
 } 
  
  
