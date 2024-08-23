@@ -5,13 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b0eca1-72bd-40ef-bdf2-cf88df06e93d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AboutUs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutUs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AboutUs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Teachers.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeaderPages/AboutUs.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeaderPages/AboutUs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AboutUs.css" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AboutUs.js" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeaderPages/AboutRules.css" beforeDir="false" afterPath="$PROJECT_DIR$/AboutRules.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeaderPages/AboutRules.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutRules.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeaderPages/Teachers.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teachers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.css" beforeDir="false" afterPath="$PROJECT_DIR$/Main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +42,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ALMAZ\Desktop\Dopen\AbdP" />
