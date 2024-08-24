@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b0eca1-72bd-40ef-bdf2-cf88df06e93d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LessonW.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LessonW.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenLessons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pptx/Python_presentation.pptx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutRules.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutRules.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeaderPages/LessonsW.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeaderPages/OpenClassWorks.html" beforeDir="false" afterPath="$PROJECT_DIR$/HeaderPages/OpenClassWorks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeaderPages/OpenLessons.html" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLessons.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonW.css" beforeDir="false" afterPath="$PROJECT_DIR$/LessonW.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LessonW.html" beforeDir="false" afterPath="$PROJECT_DIR$/LessonW.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Teachers.css" beforeDir="false" afterPath="$PROJECT_DIR$/Teachers.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Teachers.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teachers.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/AboutUs/res1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AboutUs/res1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/AboutUs/res2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AboutUs/res2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/AboutUs/res3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AboutUs/res3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/AboutUs/res4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AboutUs/res4.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +48,17 @@
   &quot;keyToString&quot;: {
     &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ALMAZ/Desktop/Dopen/AbdP/pptx&quot;
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ALMAZ\Desktop\Dopen\AbdP\pptx" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\ALMAZ\Desktop\Dopen\AbdP\HeaderPages" />
       <recent name="C:\Users\ALMAZ\Desktop\Dopen\AbdP" />
+      <recent name="C:\Users\ALMAZ\Desktop\Dopen\AbdP\HeaderPages" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

@@ -33,3 +33,19 @@ main{
     justify-content: center;
     align-items: center;
 }
+
+
+.content h3{
+    color: white;
+    font-family: Lato, sans-serif;
+    font-size: 35px;
+}
+
+.content{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    align-items: flex-start;
+    justify-content: center;
+}

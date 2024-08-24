@@ -1,0 +1,118 @@
+.background{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 60vh;
+}
+
+.background::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 60%;
+            background: rgba(0, 0, 0, 0.3);
+            pointer-events: none;
+ }
+
+
+
+.intro .content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 350px;
+    font-family: Lato, sans-serif;
+    z-index: 4;
+}
+.intro .title{
+    color: blue;
+    font-size: 60px;
+}
+.intro .author{
+    color: red;
+    font-size: 30px;
+
+}
+
+
+
+
+
+
+.flag{
+    width: 350px;
+    height: 250px;
+    margin: 50px;
+}
+
+
+
+
+
+
+
+
+main{
+   display: flex;
+   flex-direction: column;
+   width: 100%;
+   align-items: center;
+   background: black;
+}
+
+
+main .images{
+   max-width: 1400px;
+   display: flex;
+   flex-wrap: wrap;
+   justify-content: center;
+   gap: 120px;
+   margin-bottom: 130px;
+}
+
+
+.images .dmg{
+   height: 270px;
+   width: 370px;
+   color: white;
+   font-family: Lato, sans-serif;
+   font-size: 20px;
+   transition: 0.5s ease;
+}
+
+
+.images .dmg img{
+   width: 100%;
+   height: 300px;
+   cursor: grab;
+   border-radius: 20px;
+}
+
+.images .dmg:nth-child(4){
+   width: 500px;
+}
+
+.images .dmg:nth-child(5){
+   width: 500px;
+}
+
+
+.images .dmg:hover{
+   transform: scale(1.2);
+
+}
+
+
+.content iframe{
+   width: 550px;
+   height: 370px;
+}
+.content{
+   display: flex;
+   flex-direction: column;
+   gap: 25px;
+}
+
