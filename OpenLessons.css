@@ -81,6 +81,7 @@ main .images{
    font-family: Lato, sans-serif;
    font-size: 20px;
    transition: 0.5s ease;
+   filter: brightness(0.5);
 }
 
 
@@ -102,7 +103,7 @@ main .images{
 
 .images .dmg:hover{
    transform: scale(1.2);
-
+   filter: brightness(1);
 }
 
 

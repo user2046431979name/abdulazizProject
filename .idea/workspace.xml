@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51b0eca1-72bd-40ef-bdf2-cf88df06e93d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/OpenLessons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pptx/Python_presentation.pptx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OpenClassWorks.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AboutUs.html" beforeDir="false" afterPath="$PROJECT_DIR$/AboutUs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HeaderPages/OpenLessons.html" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLessons.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LessonW.css" beforeDir="false" afterPath="$PROJECT_DIR$/LessonW.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LessonW.html" beforeDir="false" afterPath="$PROJECT_DIR$/LessonW.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.html" beforeDir="false" afterPath="$PROJECT_DIR$/Main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teachers.css" beforeDir="false" afterPath="$PROJECT_DIR$/Teachers.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Teachers.html" beforeDir="false" afterPath="$PROJECT_DIR$/Teachers.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/header.css" beforeDir="false" afterPath="$PROJECT_DIR$/header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/AboutUs/res1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AboutUs/res1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/AboutUs/res2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AboutUs/res2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/AboutUs/res3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AboutUs/res3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/AboutUs/res4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/AboutUs/res4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HeaderPages/OpenClassWorks.html" beforeDir="false" afterPath="$PROJECT_DIR$/OpenClassWorks.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OpenLessons.css" beforeDir="false" afterPath="$PROJECT_DIR$/OpenLessons.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
