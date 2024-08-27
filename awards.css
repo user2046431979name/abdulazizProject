@@ -18,17 +18,47 @@
     height: 500px;
 }
 
-main img{
-    width: 600px;
-    height: 350px;
-    margin: 25px;
-}
+
+
+
+
 
 
 main{
     background: black;
+    width: flex;
+    padding-top: 100px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
 }
+
+
+
+
+
+
+.award{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 30px;
+    width: 90%;
+    max-width: 1200px;
+}
+
+.award img{
+    height: auto;
+    width: 100%;
+    display: block;
+
+
+}
+
+.award span{
+    color: white;
+    font-family: Lato, sans-serif;
+    font-size: 30px;
+}
+
+

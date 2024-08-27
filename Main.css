@@ -23,16 +23,6 @@ body{
     height: 100vh;
 }
 
-.background::before {
-            content: "";
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: rgba(0, 0, 0, 0.3);
-            pointer-events: none;
- }
 
 
 
@@ -45,12 +35,16 @@ body{
     z-index: 4;
 }
 .intro .title{
-    color: blue;
+    color: red;
     font-size: 60px;
+    font-style: italic;
+    font-family: cursive;
 }
 .intro .author{
-    color: red;
+    color: white;
     font-size: 30px;
+    font-family: cursive;
+    font-style: italic;
 
 }
 
@@ -94,8 +88,8 @@ main .box .in_side span{
 }
 
 main .box .in_side .photo{
-     height: 500px;
-     width: 800px;
+     /* height: 500px; */
+     width: 500px;
      margin: 1%;
 }
 

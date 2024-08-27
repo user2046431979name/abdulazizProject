@@ -19,6 +19,8 @@
 .intro .title{
     color: white;
     font-size: 60px;
+    font-family: cursive;
+    font-style: italic;
 }
 .intro .author{
     color: red;
@@ -26,7 +28,6 @@
 
 }
 .background{
-    backdrop-filter: brightness(0.4);
     display: flex;
     align-items: center;
     justify-content: center;
@@ -55,6 +56,7 @@ main{
 }
 
 .main_icon img{
+    padding-top: 20px;
     width: 350px;
     height: 350px;
 }
