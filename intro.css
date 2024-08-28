@@ -1,0 +1,76 @@
+.intro .content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 850px;
+    font-family: Lato, sans-serif;
+    z-index: 4;
+}
+.intro .title{
+    color: white;
+    font-size: 60px;
+}
+.background{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    width: 100%;
+    height: 500px;
+}
+
+
+
+span{
+    font-family: LAto, sans-serif;
+}
+
+
+
+.author{
+    font-size: 45px;
+    color: black;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background: white;
+}
+
+.author span{
+    text-align: center;
+    margin: 70px;
+    max-width: 1000px;
+    word-wrap: break-word;
+}
+
+
+main{
+    background: black;
+}
+
+.content{
+    display: flex;
+    background: black;
+    flex-direction: column;
+    width: 40%;
+    align-items: end;
+}
+
+
+iframe{
+    width: 450px;
+    height: 350px;
+}
+
+
+@media screen and (max-width: 1215px){
+    .content{
+        width: 100%;
+        align-items: center;
+    }
+}
+
+
+
+
+

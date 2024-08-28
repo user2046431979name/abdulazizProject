@@ -1,0 +1,42 @@
+main{
+   width: 100%;
+   background: black;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+
+
+.intro .content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    max-width: 850px;
+    font-family: Lato, sans-serif;
+    z-index: 4;
+}
+.intro .title{
+    color: white;
+    font-size: 60px;
+}
+.background{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 500px;
+}
+
+
+
+
+iframe{
+    width: 450px;
+    height: 400px;
+}
+
+
+
+
+
